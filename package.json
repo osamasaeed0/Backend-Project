@@ -1,0 +1,12 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "Creating a Backend Project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.jsc"
+  },
+  "author": "Osama Saeed",
+  "license": "ISC"
+}
