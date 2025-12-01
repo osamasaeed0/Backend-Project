@@ -32,7 +32,7 @@ const userSchema = new Schema({
         type : String, // AWS or any Cloud platform
         required: true
      },
-     coverimage:{
+     coverImage:{
     type: String , // Cloud platform
            
      }, 
